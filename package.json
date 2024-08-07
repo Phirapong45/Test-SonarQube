@@ -1,0 +1,21 @@
+{
+  "name": "test-sonarqube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "sonar-scan": "node sonar-scanner.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "sonarqube-scanner": "^4.0.1"
+  }
+}
