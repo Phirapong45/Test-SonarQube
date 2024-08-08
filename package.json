@@ -15,7 +15,6 @@
     "express": "^4.19.2"
   },
   "devDependencies": {
-    "jest": "^29.7.0",
-    "sonarqube-scanner": "^4.0.1"
+    "jest": "^29.7.0"
   }
 }

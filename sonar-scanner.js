@@ -3,7 +3,7 @@ const sonarqubeScanner = require("sonarqube-scanner");
 sonarqubeScanner(
     {
         serverUrl: "http://host.docker.internal:9000",
-        token: "token",
+        token: "your token",
         options: {
             "sonar.projectKey": "test-sonarqube",
             "sonar.projectName": "test sonarqube",

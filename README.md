@@ -24,4 +24,3 @@ docker run `
   -e SONAR_LOGIN="Token" `
   -v "$(pwd):/usr/src" `
   sonarsource/sonar-scanner-cli
-
