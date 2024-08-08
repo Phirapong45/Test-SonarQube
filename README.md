@@ -1,8 +1,5 @@
 # this sample for local test with Sonarqube
 
-### install sonar scaner
-https://codinggun.com/sonarqube/sonar-scanner/
-
 ### setting
 
 1.install package
